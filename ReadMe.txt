@@ -1,1 +1,6 @@
-Here is test file to delete from local git
+Thanks for downloading this template!
+
+Template Name: iPortfolio
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
